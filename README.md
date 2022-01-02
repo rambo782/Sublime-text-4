@@ -1,4 +1,4 @@
-# How to Crack Sublime text 4?
+# How to Mod Sublime text 4?
 
 ### Warning: This guide & cracked version is made for educational purposes ONLY.
 
