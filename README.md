@@ -8,8 +8,7 @@
  - **Step 6**:  Move the `sublime_text.exe` from downloads folder to `C:\Program Files\Sublime Text`
  - **Step 7**: Open Sublime text and use the license key below.
  
-License Key:
-
+## License Key:
     ----- BEGIN LICENSE -----
     rambo782
     Unlimited User License
