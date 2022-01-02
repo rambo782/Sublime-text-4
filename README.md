@@ -1,6 +1,6 @@
 # How to Crack Sublime text 4?
 
-# Warning: This guide & cracked version is made for educational purposes ONLY.
+### Warning: This guide & cracked version is made for educational purposes ONLY.
 
 
  - **Step 1**: Go to `C:\Program Files\Sublime Text` and move a file named `sublime_text.exe` to the desktop
